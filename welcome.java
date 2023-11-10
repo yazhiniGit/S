@@ -1,1 +1,3 @@
-Hello, Yazhini! Welcome to Git...!
+class Welcome{
+  System.out.println("Hello, Yazhini! Welcome to Git...!");
+}
